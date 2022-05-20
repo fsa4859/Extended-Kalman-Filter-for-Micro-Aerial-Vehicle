@@ -18,3 +18,18 @@ This projects implements Extended Kalman Filter for Micro Aerial Vehicle to esti
 
 ### Dataset 9
 ![image](https://user-images.githubusercontent.com/69100847/169523971-9ee11c27-a906-4dac-a75a-74ac71d39fb9.png)
+
+
+## Measurement Model (Velocity from Vicon)
+### Dataset 1
+![image](https://user-images.githubusercontent.com/69100847/169524209-e7141360-df04-42d7-8a5c-08d1ce1036da.png)
+
+
+### Dataset 4
+![image](https://user-images.githubusercontent.com/69100847/169524267-bd6bd606-4cb1-4391-8cd4-aac393714bcc.png)
+
+
+### Dataset 9
+![image](https://user-images.githubusercontent.com/69100847/169524333-5d53b727-4e20-4cb2-a373-5dc61fde586b.png)
+
+
